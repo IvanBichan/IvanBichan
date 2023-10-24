@@ -1,6 +1,6 @@
 <h3> Welcome 👋</h3>
 
-👨‍💻 Hello, I'm Ivan, a Front-end Developer with over 1.5 years of commercial experience, currently based in Warsaw, Poland. I specialize in creating user-friendly web applications and interfaces.
+👨‍💻 I'm Ivan, a Front-end Developer with over 1.5 years of commercial experience, currently based in Warsaw, Poland. I specialize in creating user-friendly web applications and interfaces.
 
 🖼️ My interest lies in **frontend development**  
 💬 Ask me about anything at ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white) [@ivanbichan](https://www.linkedin.com/in/ivanbichan/)
